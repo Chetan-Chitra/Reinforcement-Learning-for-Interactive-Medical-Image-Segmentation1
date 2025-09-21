@@ -1,0 +1,30 @@
+# Core Streamlit framework
+streamlit>=1.28.0
+
+# PyTorch ecosystem for deep learning
+torch>=1.13.0
+torchvision>=0.14.0
+
+# Image processing and computer vision
+pillow>=9.0.0
+opencv-python>=4.6.0
+
+# Scientific computing and data manipulation
+numpy>=1.21.0
+matplotlib>=3.5.0
+
+# Interactive plotting and visualization
+plotly>=5.0.0
+
+# Additional dependencies that might be needed
+scipy>=1.9.0
+pandas>=1.5.0
+
+# Optional: For better image handling
+imageio>=2.22.0
+
+# Optional: For medical image formats (DICOM)
+pydicom>=2.3.0
+
+# Optional: For enhanced image processing
+scikit-image>=0.19.0
